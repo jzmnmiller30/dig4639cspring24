@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "dig4639-ex3",
   "version": "1.0.0",
   "description": "//Favorite quote The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela",
   "main": "index.js",
@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzmnmiller30/dig4639cspring24.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "bugs": {
+    "url": "https://github.com/jzmnmiller30/dig4639cspring24/issues"
+  },
+  "homepage": "https://github.com/jzmnmiller30/dig4639cspring24#readme"
 }
